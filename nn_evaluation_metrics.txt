@@ -1,5 +1,0 @@
-Best Parameters: {'activation': 'relu', 'hidden_layer_sizes': (50, 30, 20), 'learning_rate': 'constant'}
-Accuracy: 0.9575
-Recall: 0.8391
-Precision: 0.8104
-F1: 0.8240
