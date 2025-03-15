@@ -30,9 +30,9 @@ pip install basketball-reference-scraper
 ```
 
 ## Repo Contents:
- - `evaluate` Performance metrics and confusion matrices of various models
- - `scripts` Scripts to extract and transform data, run models
- - `training_data` Processed training and test split data
+ - `Evaluations` Performance metrics and confusion matrices of various models
+ - `Scripts` Scripts to extract and transform data, run models
+ - `Data` Processed training and test split data
 
 ## How to Use
 First extract data from basketball reference by using a data scraping script, `data_extraction.py`. It takes around 6 hours for all the data to run. As such, the data is also provided in the `training_data` folder for easy access.
