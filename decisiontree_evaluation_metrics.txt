@@ -1,0 +1,5 @@
+Best Parameters: {'criterion': 'gini', 'max_depth': 50, 'max_leaf_nodes': 100, 'min_samples_split': 3}
+Accuracy: 0.9518
+Recall: 0.8433
+Precision: 0.7846
+F1: 0.8106
